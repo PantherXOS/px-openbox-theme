@@ -4,4 +4,4 @@ project(px-openbox-theme)
 install(DIRECTORY Arc/ DESTINATION share/themes/Arc)
 install(DIRECTORY Arc-Dark/ DESTINATION share/themes/Arc-Dark)
 install(DIRECTORY Arc-Darker/ DESTINATION share/themes/Arc-Darker)
-
+install(DIRECTORY PX-Arc-Dark/ DESTINATION share/themes/PX-Arc-Dark)
